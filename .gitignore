@@ -1,0 +1,46 @@
+# Flutter 
+build/
+.macos/
+android/.gradle/
+android/app/debug/
+android/app/release/
+android/key.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+windows/
+web/
+linux/
+
+# Dart & Flutter 
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# settings
+*.iml
+.idea/
+*.log
+*.DS_Store
+*.swp
+*.lock
+*.bak
+
+#  (Mac & Linux)
+*.out
+*.class
+*.pyc
+*.so
+*.dll
+*.exe
+
+# vscode(개발 환경 설정 파일)
+.vscode/
+
+# Firebase 
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
