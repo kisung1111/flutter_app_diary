@@ -27,5 +27,5 @@ Sokim Diary is a simple diary app built with Flutter. Users can select a specifi
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, feel free to reach out to **kisung42291@naver.com**.
+For any inquiries, feel free to reach out to **parkks002@gmail.com**.
 
